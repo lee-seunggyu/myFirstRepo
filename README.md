@@ -1,3 +1,3 @@
-# Hi I'm seunggyu~~
+# Basic Deeping Learning Model
 
-* If you want to help us imporve, take a minute a read the~~~
+* It's constructed a basic deep learning model.
